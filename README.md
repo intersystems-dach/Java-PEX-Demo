@@ -26,4 +26,4 @@ After each Experiment a report is generated and can be received in the productio
 
 ---
 
-by [Philipp B.](https://github.com/phil1436)
+by [Philipp B.](https://github.com/cophilot)
